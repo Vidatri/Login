@@ -5,8 +5,12 @@
 
 }
 
+html, body {
+    min-height: 100%;
+}
+
 body{
-    background: url('./imgs/backgrounds-website.jpg') no-repeat;
+    background: url('./../imgs/backgrounds-website.jpg') center center no-repeat;
     background-size: cover;
 }
 
